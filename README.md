@@ -1,4 +1,4 @@
-#Wordly - Easy Define Dictionary 📖
+# Wordly - Easy Define Dictionary 📖
 A simple and user-friendly dictionary web app that allows users to look up word definitions, parts of speech, examples, and more. This project was built using JavaScript, HTML, and CSS, 
 along with a public dictionary API.
 
